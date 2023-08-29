@@ -1,7 +1,7 @@
 ﻿namespace Practice
 {
 
-    //practice delegates and Generic Class
+    //practice func delegates and Generic Class
     public class Program
     {
        

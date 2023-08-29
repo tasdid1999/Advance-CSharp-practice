@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Stack-implement", "Generic-Stack-implement\Generic-Stack-implement.csproj", "{11F35BAB-8575-4B9D-9EC7-EFAC2C8ABFFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{62317A44-F847-4499-8A72-1D0B8D509605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11F35BAB-8575-4B9D-9EC7-EFAC2C8ABFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F35BAB-8575-4B9D-9EC7-EFAC2C8ABFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F35BAB-8575-4B9D-9EC7-EFAC2C8ABFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62317A44-F847-4499-8A72-1D0B8D509605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62317A44-F847-4499-8A72-1D0B8D509605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62317A44-F847-4499-8A72-1D0B8D509605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62317A44-F847-4499-8A72-1D0B8D509605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
